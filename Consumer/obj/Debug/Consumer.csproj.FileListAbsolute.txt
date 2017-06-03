@@ -1,0 +1,10 @@
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\Consumer\bin\Debug\Consumer.exe.config
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\Consumer\bin\Debug\Consumer.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\Consumer\bin\Debug\Consumer.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\Consumer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\Consumer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\Consumer\obj\Debug\Consumer.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\Consumer\obj\Debug\Consumer.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMqT1\Consumer\bin\Debug\Consumer.exe.config
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMqT1\Consumer\obj\Debug\Consumer.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMqT1\Consumer\obj\Debug\Consumer.pdb

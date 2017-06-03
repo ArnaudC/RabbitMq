@@ -1,0 +1,11 @@
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\bin\Debug\Producer.exe.config
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\bin\Debug\Producer.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\bin\Debug\Producer.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\bin\Debug\RabbitMQ.Client.dll
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\bin\Debug\RabbitMQ.Client.xml
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\obj\Debug\Producer.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\obj\Debug\Producer.pdb
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMq2\ConsoleApplication1\obj\Debug\Producer.csprojResolveAssemblyReference.cache
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMqT1\ConsoleApplication1\bin\Debug\Producer.exe.config
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMqT1\ConsoleApplication1\obj\Debug\Producer.exe
+C:\Users\a\Dropbox\Perso\1.workspace\4.Microsoft\RabbitMqT1\ConsoleApplication1\obj\Debug\Producer.pdb
